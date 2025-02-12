@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! 👋 Welcome to my GitHub  
 
-<!--
-**AranthaG/AranthaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Curiosity fuels creativity, and I'm here to explore, innovate, and connect!" 🚀  
 
-Here are some ideas to get you started:
+### 🧩 About Me  
+👨‍💻 A tech explorer passionate about **Cybersecurity**, **Open Source**, and **UX/UI Design**.  
+💡 I love transforming ideas into impactful digital solutions.  
+🔐 Committed to security-first development and designing intuitive user experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I’m Up To  
+- **🚀 Strengthening My Foundations** – Deep diving into **System Design** and **Scalable Architectures** to build efficient, high-performance applications.  
+- **🎨 Mastering UX/UI Design** – Learning **Figma** and **User-Centered Design Principles** to craft seamless and engaging experiences.  
+- **🔐 Advancing in Cybersecurity** – Exploring **offensive security, network defense, and secure coding** to build safer digital ecosystems.  
+- **💡 Experimenting with New Technologies** – Exploring **Blockchain Basics** and refining my expertise in **React.js, Tailwind, and Phaser.js**.  
+
+### 🔎 Skills & Interests  
+🛡 **Cybersecurity** | 🌐 **Web Development** | 🎨 **UX/UI Design** | 🏗 **System Design**  
+💻 Tech Stack: **React.js, Tailwind CSS, daisyUI, Linux, Networking Basics, Figma**  
+
+### 🚀 Let’s Connect!  
+📌 [LinkedIn](https://www.linkedin.com/in/aranthashreyag/) | 🏗 [GitHub](https://github.com/AranthaG) | ✉️ [Email](aranthashreya@gmail.com)  
+
