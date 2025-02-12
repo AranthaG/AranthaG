@@ -1,5 +1,3 @@
-# 💫 About Me:  
-
 # Hey there! 👋 Welcome to my GitHub  
 
 ### 🧩 About Me  
