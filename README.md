@@ -1,17 +1,15 @@
 # Hey there! 👋 Welcome to my GitHub  
 
-> "Curiosity fuels creativity, and I'm here to explore, innovate, and connect!" 🚀  
-
 ### 🧩 About Me  
 👨‍💻 A tech explorer passionate about **Cybersecurity**, **Open Source**, and **UX/UI Design**.  
 💡 I love transforming ideas into impactful digital solutions.  
 🔐 Committed to security-first development and designing intuitive user experiences.  
 
-### ⚡ What I’m Up To  
-- **🚀 Strengthening My Foundations** – Deep diving into **System Design** and **Scalable Architectures** to build efficient, high-performance applications.  
+### ⚡ What I’m Up To    
 - **🎨 Mastering UX/UI Design** – Learning **Figma** and **User-Centered Design Principles** to craft seamless and engaging experiences.  
-- **🔐 Advancing in Cybersecurity** – Exploring **offensive security, network defense, and secure coding** to build safer digital ecosystems.  
-- **💡 Experimenting with New Technologies** – Exploring **Blockchain Basics** and refining my expertise in **React.js, Tailwind, and Phaser.js**.  
+- **🔐 Advancing in Cybersecurity** – Exploring **offensive security, network defense, and secure coding** to build safer digital ecosystems.
+- **🎮 Developing Games & Interactive Websites** – Exploring **Phaser.js** for game development and **GSAP** for dynamic, immersive web experiences.  
+- **💡 Experimenting with New Technologies** – Exploring **Blockchain Basics**, **System Design** and refining my expertise in **React.js, Tailwind, and Phaser.js**.  
 
 ### 🔎 Skills & Interests  
 🛡 **Cybersecurity** | 🌐 **Web Development** | 🎨 **UX/UI Design** | 🏗 **System Design**  
