@@ -1,4 +1,4 @@
-# Hey there! 👋 Welcome to my GitHub  
+# Hey there! 👋 I am Arantha  
 
 ### 🧩 About Me  
 👨‍💻 A tech explorer passionate about **Cybersecurity**, **Open Source**, and **UX/UI Design**.  
