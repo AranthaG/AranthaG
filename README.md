@@ -12,7 +12,7 @@
 - **💡 Experimenting with New Technologies** – Exploring **Blockchain Basics**, **System Design**, and refining my expertise in **React.js, Tailwind, and Phaser.js**.  
 
 ### 🔎 Skills & Interests  
-🛡 **Cybersecurity** | 🌐 **Web Development** | 🎨 **UX/UI Design** | 🏗 **System Design** | 🎮 **Game Development**  
+🛡 **Cybersecurity** | 🌐 **Web Development** | 🎨 **UX/UI Design** |🎮 **Game Development**  
 💻 Tech Stack: **React.js, Tailwind CSS, daisyUI, Linux, Networking Basics, Figma, Phaser.js, GSAP**  
 
 # 💻 Tech Stack:
