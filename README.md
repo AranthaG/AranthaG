@@ -8,7 +8,7 @@
 ### ⚡ What I’m Up To  
 - **🎨 Mastering UX/UI Design** – Learning **Figma** and **User-Centered Design Principles** to craft seamless and engaging experiences.  
 - **🔐 Advancing in Cybersecurity** – Exploring **offensive security, network defense, and secure coding** to build safer digital ecosystems.  
-- **🎮 Developing Games & Interactive Websites** – Exploring **Phaser.js** for game development and **GSAP** for dynamic, immersive web experiences.  
+- **🎮 Developing Games & Interactive Websites** – Exploring **Phaser.js** for  web game development and **GSAP** for dynamic, immersive web experiences.  
 - **💡 Experimenting with New Technologies** – Exploring **Blockchain Basics**, **System Design**, and refining my expertise in **React.js, Tailwind, and Phaser.js**.  
 
 ### 🔎 Skills & Interests  
